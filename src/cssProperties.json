@@ -1,0 +1,902 @@
+[
+  {
+    "key": ["ac", "acontent"],
+    "description": "align-content"
+  },
+  {
+    "key": ["ai", "aitems"],
+    "description": "align-items"
+  },
+  {
+    "key": ["as", "aself"],
+    "description": "align-self"
+  },
+  {
+    "key": "all",
+    "description": "all"
+  },
+  {
+    "key": "animation",
+    "description": "animation"
+  },
+  {
+    "key": "adelay",
+    "description": "animation-delay"
+  },
+  {
+    "key": "adirection",
+    "description": "animation-direction"
+  },
+  {
+    "key": "aduration",
+    "description": "animation-duration"
+  },
+  {
+    "key": "afm",
+    "description": "animation-fill-mode"
+  },
+  {
+    "key": "aic",
+    "description": "animation-iteration-count"
+  },
+  {
+    "key": ["an", "aname"],
+    "description": "animation-name"
+  },
+  {
+    "key": "aps",
+    "description": "animation-play-state"
+  },
+  {
+    "key": "atf",
+    "description": "animation-timing-function"
+  },
+  {
+    "key": ["bv", "bvisibility"],
+    "description": "backface-visibility"
+  },
+  {
+    "key": ["bg", "background"],
+    "description": "background"
+  },
+  {
+    "key": ["ba", "battachment"],
+    "description": "background-attachment"
+  },
+  {
+    "key": "bbm",
+    "description": "background-blend-mode"
+  },
+  {
+    "key": "bclip",
+    "description": "background-clip"
+  },
+  {
+    "key": ["bc", "bgc"],
+    "description": "background-color"
+  },
+  {
+    "key": ["bi", "bgimage"],
+    "description": "background-image"
+  },
+  {
+    "key": ["bo", "borigin"],
+    "description": "background-origin"
+  },
+  {
+    "key": ["bp", "bposition"],
+    "description": "background-position"
+  },
+  {
+    "key": "brepeat",
+    "description": "background-repeat"
+  },
+  {
+    "key": ["bz", "bsize"],
+    "description": "background-size"
+  },
+  {
+    "key": "border",
+    "description": "border"
+  },
+  {
+    "key": ["bb", "bbottom"],
+    "description": "border-bottom"
+  },
+  {
+    "key": "bbc",
+    "description": "border-bottom-color"
+  },
+  {
+    "key": "bblr",
+    "description": "border-bottom-left-radius"
+  },
+  {
+    "key": "bbrr",
+    "description": "border-bottom-right-radius"
+  },
+  {
+    "key": "bbs",
+    "description": "border-bottom-style"
+  },
+  {
+    "key": "bbw",
+    "description": "border-bottom-width"
+  },
+  {
+    "key": "bcollapse",
+    "description": "border-collapse"
+  },
+  {
+    "key": "bcolor",
+    "description": "border-color"
+  },
+  {
+    "key": "bimage",
+    "description": "border-image"
+  },
+  {
+    "key": "bio",
+    "description": "border-image-outset"
+  },
+  {
+    "key": "bir",
+    "description": "border-image-repeat"
+  },
+  {
+    "key": "bis",
+    "description": "border-image-slice"
+  },
+  {
+    "key": "bisource",
+    "description": "border-image-source"
+  },
+  {
+    "key": "biw",
+    "description": "border-image-width"
+  },
+  {
+    "key": ["bl", "bleft"],
+    "description": "border-left"
+  },
+  {
+    "key": "blc",
+    "description": "border-left-color"
+  },
+  {
+    "key": "bls",
+    "description": "border-left-style"
+  },
+  {
+    "key": "blw",
+    "description": "border-left-width"
+  },
+  {
+    "key": ["br", "bright"],
+    "description": "border-right"
+  },
+  {
+    "key": "brc",
+    "description": "border-right-color"
+  },
+  {
+    "key": "brs",
+    "description": "border-right-style"
+  },
+  {
+    "key": "brw",
+    "description": "border-right-width"
+  },
+  {
+    "key": "bspacing",
+    "description": "border-spacing"
+  },
+  {
+    "key": ["bs", "bstyle"],
+    "description": "border-style"
+  },
+  {
+    "key": ["bt", "btop"],
+    "description": "border-top"
+  },
+  {
+    "key": "btc",
+    "description": "border-top-color"
+  },
+  {
+    "key": "btlr",
+    "description": "border-top-left-radius"
+  },
+  {
+    "key": "btrr",
+    "description": "border-top-right-radius"
+  },
+  {
+    "key": "bts",
+    "description": "border-top-style"
+  },
+  {
+    "key": "btw",
+    "description": "border-top-width"
+  },
+  {
+    "key": "bottom",
+    "description": "bottom"
+  },
+  {
+    "key": "bdb",
+    "description": "box-decoration-break"
+  },
+  {
+    "key": "bshadow",
+    "description": "box-shadow"
+  },
+  {
+    "key": "bsizing",
+    "description": "box-sizing"
+  },
+  {
+    "key": "bafter",
+    "description": "break-after"
+  },
+  {
+    "key": "bbefore",
+    "description": "break-before"
+  },
+  {
+    "key": "binside",
+    "description": "break-inside"
+  },
+  {
+    "key": "cside",
+    "description": "caption-side"
+  },
+  {
+    "key": "ccolor",
+    "description": "caret-color"
+  },
+  {
+    "key": "clear",
+    "description": "clear"
+  },
+  {
+    "key": "clip",
+    "description": "clip"
+  },
+  {
+    "key": ["cp", "cpath"],
+    "description": "clip-path"
+  },
+  {
+    "key": "color",
+    "description": "color"
+  },
+  {
+    "key": ["cc", "ccount"],
+    "description": "column-count"
+  },
+  {
+    "key": ["cf", "cfill"],
+    "description": "column-fill"
+  },
+  {
+    "key": ["cg", "cgap"],
+    "description": "column-gap"
+  },
+  {
+    "key": ["cr", "crule"],
+    "description": "column-rule"
+  },
+  {
+    "key": "crc",
+    "description": "column-rule-color"
+  },
+  {
+    "key": "crs",
+    "description": "column-rule-style"
+  },
+  {
+    "key": "crw",
+    "description": "column-rule-width"
+  },
+  {
+    "key": ["cs", "cspan"],
+    "description": "column-span"
+  },
+  {
+    "key": ["cw", "cwidth"],
+    "description": "column-width"
+  },
+  {
+    "key": "columns",
+    "description": "columns"
+  },
+  {
+    "key": "content",
+    "description": "content"
+  },
+  {
+    "key": ["ci", "cincrement"],
+    "description": "counter-increment"
+  },
+  {
+    "key": "creset",
+    "description": "counter-reset"
+  },
+  {
+    "key": "cursor",
+    "description": "cursor"
+  },
+  {
+    "key": "direction",
+    "description": "direction"
+  },
+  {
+    "key": "display",
+    "description": "display"
+  },
+  {
+    "key": ["ec", "ecells"],
+    "description": "empty-cells"
+  },
+  {
+    "key": "filter",
+    "description": "filter"
+  },
+  {
+    "key": "flex",
+    "description": "flex"
+  },
+  {
+    "key": ["fb", "fbasis"],
+    "description": "flex-basis"
+  },
+  {
+    "key": ["fd", "fdirection"],
+    "description": "flex-direction"
+  },
+  {
+    "key": "fflow",
+    "description": "flex-flow"
+  },
+  {
+    "key": ["fg", "fgrow"],
+    "description": "flex-grow"
+  },
+  {
+    "key": "fshrink",
+    "description": "flex-shrink"
+  },
+  {
+    "key": "fwrap",
+    "description": "flex-wrap"
+  },
+  {
+    "key": "float",
+    "description": "float"
+  },
+  {
+    "key": "font",
+    "description": "font"
+  },
+  {
+    "key": ["ff", "ffamily"],
+    "description": "font-family"
+  },
+  {
+    "key": "ffs",
+    "description": "font-feature-settings"
+  },
+  {
+    "key": ["fk", "fkerning"],
+    "description": "font-kerning"
+  },
+  {
+    "key": "flo",
+    "description": "font-language-override"
+  },
+  {
+    "key": ["fs", "fsize"],
+    "description": "font-size"
+  },
+  {
+    "key": "fsa",
+    "description": "font-size-adjust"
+  },
+  {
+    "key": "fstretch",
+    "description": "font-stretch"
+  },
+  {
+    "key": "fstyle",
+    "description": "font-style"
+  },
+  {
+    "key": "fsynthesis",
+    "description": "font-synthesis"
+  },
+  {
+    "key": ["fv", "fvariant"],
+    "description": "font-variant"
+  },
+  {
+    "key": "fva",
+    "description": "font-variant-alternates"
+  },
+  {
+    "key": "fvc",
+    "description": "font-variant-caps"
+  },
+  {
+    "key": "fvea",
+    "description": "font-variant-east-asian"
+  },
+  {
+    "key": "fvl",
+    "description": "font-variant-ligatures"
+  },
+  {
+    "key": "fvn",
+    "description": "font-variant-numeric"
+  },
+  {
+    "key": "fvp",
+    "description": "font-variant-position"
+  },
+  {
+    "key": ["fw", "fweight"],
+    "description": "font-weight"
+  },
+  {
+    "key": "grid",
+    "description": "grid"
+  },
+  {
+    "key": ["ga", "garea"],
+    "description": "grid-area"
+  },
+  {
+    "key": "gac",
+    "description": "grid-auto-columns"
+  },
+  {
+    "key": "gaf",
+    "description": "grid-auto-flow"
+  },
+  {
+    "key": "gar",
+    "description": "grid-auto-rows"
+  },
+  {
+    "key": ["gc", "gcolumn"],
+    "description": "grid-column"
+  },
+  {
+    "key": "gce",
+    "description": "grid-column-end"
+  },
+  {
+    "key": "gcg",
+    "description": "grid-column-gap"
+  },
+  {
+    "key": "gcs",
+    "description": "grid-column-start"
+  },
+  {
+    "key": ["gg", "ggap"],
+    "description": "grid-gap"
+  },
+  {
+    "key": ["gr", "grow"],
+    "description": "grid-row"
+  },
+  {
+    "key": "gre",
+    "description": "grid-row-end"
+  },
+  {
+    "key": "grg",
+    "description": "grid-row-gap"
+  },
+  {
+    "key": "grs",
+    "description": "grid-row-start"
+  },
+  {
+    "key": ["gt", "gtemplate"],
+    "description": "grid-template"
+  },
+  {
+    "key": "gta",
+    "description": "grid-template-areas"
+  },
+  {
+    "key": "gtc",
+    "description": "grid-template-columns"
+  },
+  {
+    "key": "gtr",
+    "description": "grid-template-rows"
+  },
+  {
+    "key": ["hp", "hpunctuation"],
+    "description": "hanging-punctuation"
+  },
+  {
+    "key": ["h", "height"],
+    "description": "height"
+  },
+  {
+    "key": "hyphens",
+    "description": "hyphens"
+  },
+  {
+    "key": ["ir", "irendering"],
+    "description": "image-rendering"
+  },
+  {
+    "key": "isolation",
+    "description": "isolation"
+  },
+  {
+    "key": ["jc", "jcontent"],
+    "description": "justify-content"
+  },
+  {
+    "key": ["ji", "jitems"],
+    "description": "justify-items"
+  },
+  {
+    "key": ["js", "jself"],
+    "description": "justify-self"
+  },
+  {
+    "key": "left",
+    "description": "left"
+  },
+  {
+    "key": ["ls", "lspacing"],
+    "description": "letter-spacing"
+  },
+  {
+    "key": ["lb", "lbreak"],
+    "description": "line-break"
+  },
+  {
+    "key": ["lh", "lheight"],
+    "description": "line-height"
+  },
+  {
+    "key": ["ls", "lstyle"],
+    "description": "list-style"
+  },
+  {
+    "key": "lsi",
+    "description": "list-style-image"
+  },
+  {
+    "key": "lsp",
+    "description": "list-style-position"
+  },
+  {
+    "key": "lst",
+    "description": "list-style-type"
+  },
+  {
+    "key": "margin",
+    "description": "margin"
+  },
+  {
+    "key": ["mb", "mbottom"],
+    "description": "margin-bottom"
+  },
+  {
+    "key": ["ml", "mleft"],
+    "description": "margin-left"
+  },
+  {
+    "key": ["mr", "mright"],
+    "description": "margin-right"
+  },
+  {
+    "key": ["mt", "mtop"],
+    "description": "margin-top"
+  },
+  {
+    "key": "mask",
+    "description": "mask"
+  },
+  {
+    "key": "mtype",
+    "description": "mask-type"
+  },
+  {
+    "key": "maxh",
+    "description": "max-height"
+  },
+  {
+    "key": "maxw",
+    "description": "max-width"
+  },
+  {
+    "key": "minh",
+    "description": "min-height"
+  },
+  {
+    "key": "minw",
+    "description": "min-width"
+  },
+  {
+    "key": "mbm",
+    "description": "mix-blend-mode"
+  },
+  {
+    "key": ["of", "ofit"],
+    "description": "object-fit"
+  },
+  {
+    "key": ["op", "oposition"],
+    "description": "object-position"
+  },
+  {
+    "key": "opacity",
+    "description": "opacity"
+  },
+  {
+    "key": "order",
+    "description": "order"
+  },
+  {
+    "key": "orphans",
+    "description": "orphans"
+  },
+  {
+    "key": "outline",
+    "description": "outline"
+  },
+  {
+    "key": ["oc", "ocolor"],
+    "description": "outline-color"
+  },
+  {
+    "key": ["oo", "ooffset"],
+    "description": "outline-offset"
+  },
+  {
+    "key": ["os", "ostyle"],
+    "description": "outline-style"
+  },
+  {
+    "key": "owidth",
+    "description": "outline-width"
+  },
+  {
+    "key": "overflow",
+    "description": "overflow"
+  },
+  {
+    "key": ["ow", "owrap"],
+    "description": "overflow-wrap"
+  },
+  {
+    "key": "ox",
+    "description": "overflow-x"
+  },
+  {
+    "key": "oy",
+    "description": "overflow-y"
+  },
+  {
+    "key": "padding",
+    "description": "padding"
+  },
+  {
+    "key": ["pb", "pbottom"],
+    "description": "padding-bottom"
+  },
+  {
+    "key": ["pl", "pleft"],
+    "description": "padding-left"
+  },
+  {
+    "key": ["pr", "pright"],
+    "description": "padding-right"
+  },
+  {
+    "key": ["pt", "ptop"],
+    "description": "padding-top"
+  },
+  {
+    "key": "pba",
+    "description": "page-break-after"
+  },
+  {
+    "key": "pbb",
+    "description": "page-break-before"
+  },
+  {
+    "key": "pbi",
+    "description": "page-break-inside"
+  },
+  {
+    "key": "perspective",
+    "description": "perspective"
+  },
+  {
+    "key": ["po", "porigin"],
+    "description": "perspective-origin"
+  },
+  {
+    "key": ["pe", "pevents"],
+    "description": "pointer-events"
+  },
+  {
+    "key": "position",
+    "description": "position"
+  },
+  {
+    "key": "quotes",
+    "description": "quotes"
+  },
+  {
+    "key": "resize",
+    "description": "resize"
+  },
+  {
+    "key": "right",
+    "description": "right"
+  },
+  {
+    "key": ["sb", "sbehavior"],
+    "description": "scroll-behavior"
+  },
+  {
+    "key": ["bs", "bsize"],
+    "description": "tab-size"
+  },
+  {
+    "key": ["tl", "tlayout"],
+    "description": "table-layout"
+  },
+  {
+    "key": ["ta", "talign"],
+    "description": "text-align"
+  },
+  {
+    "key": "tal",
+    "description": "text-align-last"
+  },
+  {
+    "key": "tcu",
+    "description": "text-combine-upright"
+  },
+  {
+    "key": ["td", "tdecoration"],
+    "description": "text-decoration"
+  },
+  {
+    "key": "tdc",
+    "description": "text-decoration-color"
+  },
+  {
+    "key": "tdl",
+    "description": "text-decoration-line"
+  },
+  {
+    "key": "tds",
+    "description": "text-decoration-style"
+  },
+  {
+    "key": ["ti", "tindent"],
+    "description": "text-indent"
+  },
+  {
+    "key": ["tj", "tjustify"],
+    "description": "text-justify"
+  },
+  {
+    "key": "torientation",
+    "description": "text-orientation"
+  },
+  {
+    "key": "toverflow",
+    "description": "text-overflow"
+  },
+  {
+    "key": ["ts", "tshadow"],
+    "description": "text-shadow"
+  },
+  {
+    "key": ["tt", "ttransform"],
+    "description": "text-transform"
+  },
+  {
+    "key": "tup",
+    "description": "text-underline-position"
+  },
+  {
+    "key": "top",
+    "description": "top"
+  },
+  {
+    "key": "transform",
+    "description": "transform"
+  },
+  {
+    "key": ["to", "torigin"],
+    "description": "transform-origin"
+  },
+  {
+    "key": "tstyle",
+    "description": "transform-style"
+  },
+  {
+    "key": "transition",
+    "description": "transition"
+  },
+  {
+    "key": "tdelay",
+    "description": "transition-delay"
+  },
+  {
+    "key": "tduration",
+    "description": "transition-duration"
+  },
+  {
+    "key": ["tp", "tproperty"],
+    "description": "transition-property"
+  },
+  {
+    "key": "ttf",
+    "description": "transition-timing-function"
+  },
+  {
+    "key": ["ub", "ubidi"],
+    "description": "unicode-bidi"
+  },
+  {
+    "key": ["us", "uselect"],
+    "description": "user-select"
+  },
+  {
+    "key": ["va", "valign"],
+    "description": "vertical-align"
+  },
+  {
+    "key": "visibility",
+    "description": "visibility"
+  },
+  {
+    "key": ["ws", "wspace"],
+    "description": "white-space"
+  },
+  {
+    "key": ["w","width"],
+    "description": "width"
+  },
+  {
+    "key": "widows",
+    "description": "widows"
+  },
+  {
+    "key": ["wb", "wbreak"],
+    "description": "word-break"
+  },
+  {
+    "key": "wspacing",
+    "description": "word-spacing"
+  },
+  {
+    "key": ["ww", "wwrap"],
+    "description": "word-wrap"
+  },
+  {
+    "key": ["wm", "wmode"],
+    "description": "writing-mode"
+  },
+  {
+    "key": ["zi", "zindex"],
+    "description": "z-index"
+  }
+]

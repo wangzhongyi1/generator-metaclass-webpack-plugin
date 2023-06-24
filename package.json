@@ -1,0 +1,21 @@
+{
+  "name": "generator-metaclass-webpack-plugin",
+  "version": "1.0.1",
+  "description": "this is a generator meta css class",
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "main": "src/index.js",
+  "keywords": [
+    "generator",
+    "meta",
+    "css",
+    "class"
+  ],
+  "author": "wangzhongyi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.0"
+  }
+}
