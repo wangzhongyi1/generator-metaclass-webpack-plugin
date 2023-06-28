@@ -10,7 +10,7 @@
 
 2. 在 `vue.config.js` 中配置
 ```js
-const generatorMetaClassPlugin = require('generatorMetaClass');
+const generatorMetaClassPlugin = require('generator-metaclass-webpack-plugin');
 
 module.exports = {
     configureWebpack: {

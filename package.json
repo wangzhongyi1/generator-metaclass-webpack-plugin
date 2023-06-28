@@ -14,6 +14,10 @@
     "class"
   ],
   "author": "wangzhongyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangzhongyi1/generator-metaclass-webpack-plugin"
+  },
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.88.0"
